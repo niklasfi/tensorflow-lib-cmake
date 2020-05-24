@@ -11,7 +11,7 @@
 ## Build
 
 - clone this repo: `git clone --recursive https://github.com/niklasfi/tensorflow-lib-cmake.git`
-- if you feel lucky, update the tensorflow submodule with `git submodule update` to the latest master commit
+- if you feel lucky, update the tensorflow submodule with `git submodule update --remote --merge` to the latest master commit
 - build tensorflow, either by
   - using `./build-tensorflow.sh` supplied in this repo
   - or downloading and building tensorflow on your own
